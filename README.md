@@ -1,5 +1,6 @@
 # Reddit_wrapper
 
+youtube_link: https://youtu.be/gLykCfJl2PY
 ## Packages:
 - python-dotenv
 - praw
