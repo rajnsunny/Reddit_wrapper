@@ -1,6 +1,9 @@
 # Reddit_wrapper
 
 youtube_link: https://youtu.be/gLykCfJl2PY
+
+## Demo
+  ![Demo](https://github.com/rajnsunny/Reddit_wrapper/blob/main/Screenshot%202023-08-29%20004036.png)
 ## Packages:
 - python-dotenv
 - praw
@@ -29,3 +32,4 @@ USER_AGENT: <Unique_USER_SPECS.>
     - simply open the HTML file 
     - check for URL of the server (default: http://127.0.0.1:8000)
     - now it will fetch and display the result.
+    - Please update the whitelisted url in server settings.py (default: http://127.0.0.1:5000)
